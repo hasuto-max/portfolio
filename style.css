@@ -104,3 +104,10 @@ th,td {
 td:hover {
     color: transparent;
 }
+.blank{
+    cursor: pointer;
+    border-bottom: 2px dotted #9e9e9e;
+}
+.blank.true{
+    color: #ffffff;
+}
